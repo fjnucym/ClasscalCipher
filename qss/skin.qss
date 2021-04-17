@@ -1,0 +1,17 @@
+TitleBar QPushButton{	
+	background-color:transparent
+}
+TitleBar QPushButton:hover{	
+	color:black;
+	background-color:rgb(228 , 240 , 250);
+	border: 1px solid rgb(15 , 150 , 255);
+}
+
+TitleBar QPushButton:pressed
+{
+	color:black;
+   	background-color:rgb(204 , 228 , 247);
+    	border: 1px solid rgb(1 , 84 , 153);
+    	padding-left:1px;
+    	padding-top:1px;
+}

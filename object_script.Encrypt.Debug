@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\customdlg.o
+./debug\titlebar.o
+./debug\encryotwidget.o
+./debug\global.o
+./debug\caesarcode.o
+./debug\virginiacode.o
+./debug\qrc_img.o
+./debug\moc_widget.o
+./debug\moc_customdlg.o
+./debug\moc_titlebar.o
+./debug\moc_encryotwidget.o
+);

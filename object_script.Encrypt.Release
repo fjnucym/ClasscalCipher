@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\customdlg.o
+./release\titlebar.o
+./release\encryotwidget.o
+./release\global.o
+./release\caesarcode.o
+./release\virginiacode.o
+./release\qrc_img.o
+./release\moc_widget.o
+./release\moc_customdlg.o
+./release\moc_titlebar.o
+./release\moc_encryotwidget.o
+);
